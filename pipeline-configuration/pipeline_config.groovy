@@ -1,4 +1,4 @@
-libraries{
-  merge = true // allow individual apps to contribute additional libraries
+@merge libraries{
+//   merge = true // allow individual apps to contribute additional libraries
   sonarqube
 }
