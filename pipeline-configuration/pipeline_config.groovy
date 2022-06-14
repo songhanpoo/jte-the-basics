@@ -1,4 +1,4 @@
 libraries{
-    gradle
-    sonarqube
+  merge = true // allow individual apps to contribute additional libraries
+  sonarqube
 }
