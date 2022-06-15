@@ -4,6 +4,6 @@ jte{
     pipeline_template = "pipeline_config.groovy"
 }
 
-libraries{
+@merge libraries{
     sonarqube
 }
