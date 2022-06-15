@@ -1,8 +1,8 @@
 jte{
-    allow_scm_jenkinsfile = False
-    permissive_initialization = True
+    allow_scm_jenkinsfile = false
+    permissive_initialization = true
     pipeline_template = "pipeline_config.groovy"
-    reverse_library_resolution = True
+    reverse_library_resolution = true
 }
 
 libraries{
