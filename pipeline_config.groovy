@@ -5,6 +5,6 @@ jte{
     reverse_library_resolution = True
 }
 
-@merge libraries{
+libraries{
     sonarqube
 }
