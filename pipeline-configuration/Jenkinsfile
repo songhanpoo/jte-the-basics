@@ -1,2 +1,3 @@
 // build()
+println "Hello World"
 static_code_analysis()
